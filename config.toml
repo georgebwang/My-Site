@@ -2,7 +2,10 @@ baseURL = "georgebaihanwang.com"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
-theme = ""
+theme = "uBlogger"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
 
 # website title
 #

@@ -72,38 +72,15 @@ I use [Zotero](https://www.zotero.org/) to manage and backup the papers I read. 
 
 [Obsidian](https://obsidian.md/) is a Markdown document editor with a powerful added feature of linking different Markdown files. This feature empowers the users to potentially build a mind map or a 'knowledge base', so it's very handy for making research or study notes. I take notes in Obsidian when I read papers or textbooks. I also integrate Obsidian with Zotero, in the sense that the Obsidian notes I've written for a particular paper can be directly linked to the paper entry in Zotero for improved accessibility. The official syncing functionality is a paid feature in Obsidian unfortunately, but there's an easy hack -- you can just put your Obsidian files and folders (called 'vaults' in Obsidian) in a Dropbox-synced folder, and let Dropbox do the syncing job. I use Dropbox to sync my notes and it works perfectly fine.
 
-### OnlyOffice (for Linux users)
-<img src="onlyoffice.png" width="250"/>
-
-A huge drawback of Linux is that Linux doesn't support the Microsoft Office suite. MS Office is a commercial software so it's not a surprise that they don't appear on Linux. I had struggled to find an alternative office suite that has comparable functionality and usability to MS Office, until I found [OnlyOffice](https://www.onlyoffice.com/). OnlyOffice supports the ordinary MS Office files (e.g., .docx, .xlsx and .pptx) flawlessly. Notably, its LaTeX support for equation insertion is comparable (or even better in my opinion) than MS Office, and it can be freely connected to a cloud for sync purposes. I link OnlyOffice to my [CloudStor](https://www.aarnet.edu.au/network-and-services/cloud-services/cloudstor) cloud storage space so I have automatic backups of my files. Since we're here, I also highly recommend registering for CloudStor if you have an AUS/NZ university email address -- you can get 1TB cloud storage for free where you can easily sync/backup any local files to the cloud.
-
 ### CloudStor
 <img src="cloudstor.png" width="250"/>
 
 [CloudStor](https://www.aarnet.edu.au/network-and-services/cloud-services/cloudstor) provides the research and academic community with an easy-to-use collaboration workspace and integrated tools for sharing and analysing data. It's kind of like Dropbox in the sense that you can sync your local folders to the cloud and across devices. A really good thing about CloudStor is that it provides 1TB free cloud storage space for researchers at AARNet-connected institutions (essentially you get the 1TB as long as you have an AUS/NZ university email address, either staff or student is fine). I use CloudStor to backup and sync large datasets and also research papers in Zotero. 
 
-<br/>
+### OnlyOffice (for Linux users)
+<img src="onlyoffice.png" width="250"/>
+
+A huge drawback of Linux is that Linux doesn't support the Microsoft Office suite. MS Office is a commercial software so it's not a surprise that they don't appear on Linux. I had struggled to find an alternative office suite that has comparable functionality and usability to MS Office, until I found [OnlyOffice](https://www.onlyoffice.com/). OnlyOffice supports the ordinary MS Office files (e.g., .docx, .xlsx and .pptx) flawlessly. Notably, its LaTeX support for equation insertion is comparable (or even better in my opinion) than MS Office, and it can be freely connected to a cloud for sync purposes. I link OnlyOffice to my CloudStor cloud storage space so I have automatic backups of my files. 
+
 <br/>
 And that's it! I honestly think these apps have helped make my workflow more efficient, and I hope you've found some of them appealing to you as well. Try them out if you like! 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

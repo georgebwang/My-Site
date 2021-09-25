@@ -11,5 +11,5 @@ My apologies for the blank page -- I am currently still undertaking finance rese
 
 My research interests lie broadly in the areas of Empirical Asset Pricing, Institutional Investors, and Empirical Market Microstructure. I am on my random walk (hopefully with some drift :smiley:) exploring my specific research topics.
 
-
+My first-year MCom research project (equivalent to an Honours thesis) is titled "*Smirking at the Cross-Section of Corporate Bond Returns*", in which I investigate the return predictability of the slope of the option-implied volatility smirk on corporate bonds, via an informed trading channel.
 

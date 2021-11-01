@@ -17,7 +17,7 @@ date: "2021-06-20T00:00:00Z"
 lastmod: ""
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 page:
     theme: "wide"

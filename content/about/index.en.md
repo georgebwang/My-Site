@@ -7,14 +7,14 @@ math:
   enable: true
 ---
 
-I’m George, a Master of Commerce (MCom) research student in the Department of Banking and Finance, Monash Business School. I commenced my academic journey towards becoming a Finance researcher in 2021, after obtaining my undergrad degrees in Chemical Engineering and Commerce at Monash. Currently my research interests lie broadly in the area of Empirical Asset Pricing. Find my CV <a href="GeorgeWang-CV.pdf">here</a>.
+I’m George, a Master of Commerce (MCom) research student in the Department of Banking and Finance, Monash Business School. I commenced my academic journey towards becoming a Finance researcher in 2021, after obtaining my undergrad degrees in Chemical Engineering and Commerce at Monash. Currently my research interests lie broadly in the area of Empirical Asset Pricing. Find my CV <a href="CV-GeorgeBaihanWang.pdf">here</a>.
 
 Email: george.baihan.wang@gmail.com  or  bwan146@student.monash.edu
 
 
 ### Education
 * Master of Commerce (in progress), Monash Business School
-  - WAM: 93.50 (ongoing)
+  - WAM: 94.25 (ongoing)
   - Expected course completion date: Dec 2022
 * Bachelor of Chemical Engineering (Honours), Monash University, 2016-2020
   - WAM: 80.87 (H1 first class honours)

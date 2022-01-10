@@ -220,7 +220,7 @@ enableEmoji = true
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    custom = 'Wesbite created with the <a href="https://github.com/rstudio/blogdown">blogdown</a> R package'
+    custom = 'Wesbite created with the <a href="https://github.com/rstudio/blogdown"><u>blogdown</u></a> R package'
     # whether to show Hugo and theme info
     hugo = false
     # whether to show copyright info

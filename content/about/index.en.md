@@ -7,9 +7,9 @@ math:
   enable: true
 ---
 
-I’m George, a Master of Commerce (MCom) research student in the Department of Banking and Finance, Monash Business School. I commenced my academic journey towards becoming a Finance researcher in 2021, after obtaining my undergrad degrees in Chemical Engineering and Commerce at Monash. Currently my research interests lie broadly in the area of Empirical Asset Pricing. Find my CV <a href="CV-GeorgeBaihanWang.pdf">here</a>.
+I’m George, a Master of Commerce (MCom) research student in the Department of Banking and Finance, Monash Business School. Currently my research interests lie in the area of Empirical Asset Pricing and Institutional Investors. Find my CV <a href="CV-GeorgeBaihanWang.pdf">here</a>.
 
-Email: george.baihan.wang@gmail.com  or  bwan146@student.monash.edu
+Email: george.baihan.wang@gmail.com (personal) or bwan146@student.monash.edu (university)
 
 
 ### Education
@@ -24,7 +24,7 @@ Email: george.baihan.wang@gmail.com  or  bwan146@student.monash.edu
   
 --------------------
 ### Skills
-R | Python | SAS | MATLAB | LaTeX
+R | Python | SAS | STATA | MATLAB | $\LaTeX$
 
 -----------------
 ### Awards

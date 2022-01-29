@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Bio"
 date: 
 draft: false
 
@@ -7,7 +7,7 @@ math:
   enable: true
 ---
 
-I’m George, a Master of Commerce (MCom) research student in the Department of Banking and Finance, Monash Business School. Currently my research interests lie in the area of Empirical Asset Pricing and Institutional Investors. Find my CV <a href="CV-GeorgeBaihanWang.pdf">here</a>.
+PDF version of my <a href="CV-GeorgeBaihanWang.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>.
 
 Email: george.baihan.wang@gmail.com (personal) or bwan146@student.monash.edu (university)
 
@@ -30,13 +30,16 @@ R | Python | SAS | STATA | MATLAB | $\LaTeX$
 ### Awards
 * Faculty of Engineering Dean’s Honours List 2020
 * Monash Business School 2020 Dean’s Honour
-* Chartered Financial Analyst (CFA) ‑ Level I passed
 * MCom Graduate Research Scholarship
-* Financial Risk Manager (FRM) Certification ‑ Part I cleared
 * CFA Student Scholarship
 * Faculty of Engineering Dean’s Honours List 2017
 * Faculty of Engineering Dean’s Honours List 2016
 * Monash Engineering Undergraduate Scholarship
 
+
+----------------
+### Miscellaneous
+* Chartered Financial Analyst (CFA) ‑ Level I passed
+* Financial Risk Manager (FRM) Certification ‑ Part I cleared
 
 ----------------

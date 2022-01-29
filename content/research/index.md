@@ -6,9 +6,9 @@ math:
   enable: true
 ---
 
-My apologies for the blank page -- I am currently still undertaking finance research training at the Honours/PhD first-year level.
+I am currently undertaking pre-doctoral finance research training. Once available, drafts of my working papers will be displayed on this page. 
 
-My research interests lie broadly in the areas of Empirical Asset Pricing and Institutional Investors. I am particularly interested in the behaviour of investment companies (*e.g.,* mutual funds, ETFs) in fixed-income markets. 
+Currently, my research interests lie in the area of fixed-income markets. I am particularly interested in both the asset pricing and corporate financing implications of flows and trading by fixed-income mutual funds and ETFs. 
 
 
 

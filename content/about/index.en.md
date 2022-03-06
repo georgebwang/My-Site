@@ -13,15 +13,16 @@ Email: george.baihan.wang@gmail.com (personal) or bwan146@student.monash.edu (un
 
 
 ### Education
-* Master of Commerce (in progress), Monash Business School
-  - WAM: 94.25 (ongoing)
-  - Expected course completion date: Dec 2022
+* Master of Commerce, Monash Business School, 2021-2022$^\dagger$
+  - Supervision Team: [Zhongyan Zhu](https://johnchungyenchu.org/) (Chair), [Huu Nhan Duong](https://research.monash.edu/en/persons/huu-nhan-duong), and [Yushui Shi](https://sites.google.com/view/yushuis)
+  
 * Bachelor of Chemical Engineering (Honours), Monash University, 2016-2020
-  - WAM: 80.87 (H1 first class honours)
+
 * Bachelor of Commerce, Monash University, 2016-2020
-  - WAM: 88.19
   - Major: Finance | Minor: Econometrics 
   
+*$^\dagger$ indicates expected*  
+
 --------------------
 ### Skills
 R | Python | SAS | Stata | MATLAB | $\LaTeX$

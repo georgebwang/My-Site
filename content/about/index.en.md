@@ -14,7 +14,7 @@ Email: george.baihan.wang@gmail.com (personal) or bwan146@student.monash.edu (un
 
 ### Education
 * Master of Commerce, Monash Business School, 2021-2022$^\dagger$
-  - Supervision Team: [Zhongyan Zhu](https://johnchungyenchu.org/) (Chair), [Huu Nhan Duong](https://research.monash.edu/en/persons/huu-nhan-duong), and [Yushui Shi](https://sites.google.com/view/yushuis)
+  - Supervision Team: [John Chung-Yen Chu](https://johnchungyenchu.org/) (Chair), [Huu Nhan Duong](https://research.monash.edu/en/persons/huu-nhan-duong), and [Yushui Shi](https://sites.google.com/view/yushuis)
   
 * Bachelor of Chemical Engineering (Honours), Monash University, 2016-2020
 

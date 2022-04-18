@@ -40,6 +40,14 @@ enableEmoji = true
         name = "Research"
         url = "/research/"
         title = ""
+        weight = 20
+      [[languages.en.menu.main]]
+        identifier = "utilities"
+        pre = ""
+        post = ""
+        name = "Utilities"
+        url = "/utilities/"
+        title = ""
         weight = 30
       [[languages.en.menu.main]]
         identifier = "about"

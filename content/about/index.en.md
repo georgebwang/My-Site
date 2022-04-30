@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "About Me"
 date: 
 draft: false
 

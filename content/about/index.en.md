@@ -25,7 +25,7 @@ Email: george.baihan.wang@gmail.com (personal) or bwan146@student.monash.edu (un
 
 --------------------
 ### Softwares
-R | SAS | Stata | Python | MATLAB | Julia | $\LaTeX$
+R | SAS | Stata | Python | MATLAB | $\LaTeX$
 
 -----------------
 ### Awards

@@ -50,11 +50,11 @@ enableEmoji = true
         title = ""
         weight = 30
       [[languages.en.menu.main]]
-        identifier = "about"
+        identifier = "CV"
         pre = ""
         post = ""
-        name = "About"
-        url = "/about/"
+        name = "CV"
+        url = "/cv/"
         title = ""
         weight = 40
 
@@ -62,7 +62,7 @@ enableEmoji = true
       # site description
       description = "George Baihan Wang's personal website"
       # site keywords
-      keywords = ["George Baihan Wang", "Finance", "PhD"]
+      keywords = ["George Baihan Wang", "George Wang", "Finance", "Monash", "PhD"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher

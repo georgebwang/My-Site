@@ -11,21 +11,19 @@ PDF version: <a href="CV-GeorgeBaihanWang.pdf" target="_blank" rel="noopener nor
 
 Email: george.baihan.wang@gmail.com
 
+Address: <u>Building N 3.13, 900 Dandenong Road, Caulfield East VIC 3145, Australia</u>
 
 ### Education
+*$^\dagger$ indicates expected*  
 * Master of Commerce, Monash Business School, 2021-2022$^\dagger$
-  - Supervision Team: [John C. Chu](https://johnchungyenchu.org/), [Huu Nhan Duong](https://research.monash.edu/en/persons/huu-nhan-duong), [Yushui Shi](https://sites.google.com/view/yushuis)
+  - Thesis advisors: [Assoc. Prof. John Chu](https://johnchungyenchu.org/), [Assoc. Prof. Huu Nhan Duong](https://research.monash.edu/en/persons/huu-nhan-duong), [Dr. Yushui Shi](https://sites.google.com/view/yushuis)
   
 * Bachelor of Chemical Engineering (Honours), Monash University, 2016-2020
 
 * Bachelor of Commerce, Monash University, 2016-2020
   - Major: Finance | Minor: Econometrics 
   
-*$^\dagger$ indicates expected*  
 
---------------------
-### Softwares
-R | SAS | Stata | Python | MATLAB | $\LaTeX$
 
 -----------------
 ### Awards
@@ -40,7 +38,8 @@ R | SAS | Stata | Python | MATLAB | $\LaTeX$
 
 ----------------
 ### Miscellaneous
-* Chartered Financial Analyst (CFA) ‑ Level I passed
-* Financial Risk Manager (FRM) Certification ‑ Part I passed
+* Chartered Financial Analyst (CFA) ‑ Level I passed (2021)
+* Financial Risk Manager (FRM) ‑ Part I passed (2019)
+* Software skills: R | SAS | Stata | Python | MATLAB | $\LaTeX$
 
 ----------------

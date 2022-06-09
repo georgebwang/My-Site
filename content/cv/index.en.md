@@ -15,8 +15,9 @@ Address: <u>Building N 3.13, 900 Dandenong Road, Caulfield East VIC 3145, Austra
 
 ### Education
 *$^\dagger$ indicates expected*  
+
 * Master of Commerce, Monash Business School, 2021-2022$^\dagger$
-  - Thesis advisors: [Assoc. Prof. John Chu](https://johnchungyenchu.org/), [Assoc. Prof. Huu Nhan Duong](https://research.monash.edu/en/persons/huu-nhan-duong), [Dr. Yushui Shi](https://sites.google.com/view/yushuis)
+  - Thesis advisors: [John Chu](https://johnchungyenchu.org/), [Huu Nhan Duong](https://research.monash.edu/en/persons/huu-nhan-duong), [Yushui Shi](https://sites.google.com/view/yushuis)
   
 * Bachelor of Chemical Engineering (Honours), Monash University, 2016-2020
 
